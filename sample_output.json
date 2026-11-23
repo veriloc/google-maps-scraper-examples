@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Joe's Pizza Broadway",
+    "categoryName": "Pizza restaurant",
+    "address": "1435 Broadway, New York, NY 10018",
+    "phone": "(646) 559-4878",
+    "website": "https://www.joespizzanyc.com/",
+    "totalScore": 4.4,
+    "reviewsCount": 27702,
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJifIePKtZwokRVZ-UdRGkZzs",
+    "city": "New York",
+    "countryCode": "US"
+  },
+  {
+    "title": "NY Pizza Suprema",
+    "categoryName": "Pizza restaurant",
+    "address": "413 8th Ave, New York, NY 10001",
+    "phone": "(212) 594-8939",
+    "website": "https://www.nypizzasuprema.com/",
+    "totalScore": 4.6,
+    "reviewsCount": 8908,
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJjaD94kFZwokR-20CXqlpy_4",
+    "city": "New York",
+    "countryCode": "US"
+  }
+]
